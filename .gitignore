@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+.env
+.omc/
+.DS_Store
+.playwright-mcp/
+*.tsbuildinfo
+.eslintcache
+.claude/scheduled_tasks.lock
